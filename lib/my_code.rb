@@ -36,7 +36,7 @@ def map_to_double(source_array)
   newarr = []
   
   while i < source_array.length 
-    newarr << (source_array[i] *)
+    newarr << (source_array[i] * 2)
     
     i += 1 
   end
