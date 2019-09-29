@@ -46,7 +46,7 @@ def map_to_double(source_array)
 
 end
 
-def map_to_squaree(source_array)
+def map_to_square(source_array)
   
   i = 0 
   newarr = []
