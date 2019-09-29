@@ -12,3 +12,20 @@ def map_to_negativize(source_array)
   return newarr
 
 end
+
+
+def map_to_no_change(source_array)
+  
+  i = 0 
+  newarr = []
+  
+  while i < source_array.length 
+    newarr << source_array[i]
+    
+    i += 1 
+  end
+  
+  return newarr
+  
+
+end
